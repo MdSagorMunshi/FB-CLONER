@@ -8,11 +8,9 @@ Made With Python
    ```shell
    git clone https://github.com/MdSagorMunshi/FB-CLONER.git
 2. Navigate to the project directory:
-```shell
-cd FB-CLONER
+``` cd FB-CLONER ````
 3. Run the Python script:
-```shell
-python FB-CLONER.py ````
+``` python FB-CLONER.py ````
 
 ## Version
 Current Version: 4.5.1
