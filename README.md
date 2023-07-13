@@ -8,12 +8,10 @@ Made With Python
    ```shell
    git clone https://github.com/MdSagorMunshi/FB-CLONER.git
 2. Navigate to the project directory:
-shell
-Copy code
+```shell
 cd FB-CLONER
 3. Run the Python script:
-shell
-Copy code
+```shell
 python FB-CLONER.py
 Version
 Current Version: 4.5.1
@@ -24,4 +22,5 @@ Please adhere to the following guidelines when using the Facebook Old ID Cloner:
 For any inquiries or feedback, please contact Lee Siwoo via email at leethesiwoo@gmail.com.
 
 © 2023 Lee Siwoo. All rights reserved.
+
 The content of this repository is licensed under the [MIT License](LICENSE).
