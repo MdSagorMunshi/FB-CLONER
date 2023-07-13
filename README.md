@@ -12,8 +12,9 @@ Made With Python
 cd FB-CLONER
 3. Run the Python script:
 ```shell
-python FB-CLONER.py
-Version
+python FB-CLONER.py ````
+
+## Version
 Current Version: 4.5.1
 
 ## Usage Guidelines
