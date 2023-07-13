@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Author
-Author: Lee Siwoo
+Author: Lee Siwoo,
 Author's Instagram: [@leesiwoo](https://www.instagram.com/leesiwoo_s/)
 Website: [www.leesiwoo.me](https://www.leesiwoo.me)
 
