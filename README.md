@@ -4,7 +4,7 @@
 
 ## Author
 Author: RYAN SHELBY,
-Telegram: [RYAN] (leesiwoo_s.t.me)
+Telegram: [RYAN](https://leesiwoo_s.t.me)
 Website: [www.leesiwoo.me](https://www.leesiwoo.me)
 
 ## Description
