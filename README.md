@@ -3,8 +3,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Author
-Author: Lee Siwoo,
-Author's Instagram: [@leesiwoo](https://www.instagram.com/leesiwoo_s/)
+Author: RYAN SHELBY,
+Telegram: [RYAN] (leesiwoo_s.t.me)
 Website: [www.leesiwoo.me](https://www.leesiwoo.me)
 
 ## Description
